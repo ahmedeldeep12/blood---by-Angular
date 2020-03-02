@@ -1,0 +1,20 @@
+
+.title-about h1
+{
+    font-weight:bold;
+    font-size:30px
+}
+
+.title-about hr
+{
+    border:2px dashed black;
+    width:100px;
+    margin:0
+}
+
+.media
+{
+    border-radius:1px;
+    box-shadow:0 0 10px 1px #AAA;
+    margin-bottom:45px
+}
